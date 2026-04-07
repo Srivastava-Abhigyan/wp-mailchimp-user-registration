@@ -42,4 +42,4 @@ This project is licensed under the GPL v2 or later.
 
 ---
 
-*Developed by A>DEV for seamless WordPress-Mailchimp integration.*
+*Developed by A.DEV for seamless WordPress-Mailchimp integration.*
